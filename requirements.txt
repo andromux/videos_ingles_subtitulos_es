@@ -1,0 +1,6 @@
+faster-whisper
+srt
+deep-translator
+ffmpeg-python
+hf_xet
+huggingface_hub[hf_xet]
